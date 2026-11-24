@@ -1,0 +1,361 @@
+student_id,name,gender,age,department,semester,subject,study_hours,attendance_percentage,assignment_scores,internal_marks,final_marks
+STU1001,Chaitanya Bose,Female,20,Computer Science,3,Software Engineering,2.3,88.3,36.4,28.2,53.9
+STU1002,Kavya Mishra,Female,20,Computer Science,2,Database Management Systems,9.7,66.6,56.6,24.0,75.2
+STU1003,Deepak Iyer,Male,20,Computer Science,2,Software Engineering,2.6,89.8,51.2,28.7,49.8
+STU1004,Sakshi Nair,Male,20,Information Technology,8,Cloud Computing,4.6,83.8,50.7,28.5,51.6
+STU1005,Esha Malhotra,Female,20,Data Science & AI,2,Data Structures & Algorithms,2.9,92.6,63.6,27.7,68.5
+STU1006,Ananya Choudhury,Male,19,Electronics & Comm,1,Database Management Systems,3.3,80.4,39.1,23.0,45.6
+STU1007,Rhea Deshmukh,Male,18,Data Science & AI,8,Database Management Systems,1.8,90.3,49.0,32.0,50.9
+STU1008,Roshni Nair,Female,20,Computer Science,5,Software Engineering,6.6,66.5,54.4,28.5,45.0
+STU1009,Gaurav Bose,Male,19,Information Technology,6,Computer Networks,3.4,57.2,34.9,17.9,37.5
+STU1010,Varun Menon,Male,20,Mechanical Engineering,1,Cloud Computing,3.5,86.9,44.4,28.5,44.6
+STU1011,Pooja Reddy,Male,21,Information Technology,5,Computer Networks,10.9,86.1,80.1,37.6,79.4
+STU1012,Gaurav Joshi,Female,22,Information Technology,4,Operating Systems,5.9,79.2,58.1,30.8,48.8
+STU1013,Siddharth Mishra,Male,22,Mechanical Engineering,6,Data Structures & Algorithms,2.9,82.9,45.7,22.5,53.8
+STU1014,Shreya Choudhury,Female,18,Data Science & AI,1,Computer Networks,2.9,89.9,50.2,33.2,47.2
+STU1015,Shreya Sharma,Male,23,Data Science & AI,4,Software Engineering,4.3,89.0,52.0,27.2,43.7
+STU1016,Bhavna Singh,Male,20,Computer Science,6,Cloud Computing,5.5,83.4,40.9,25.1,48.7
+STU1017,Siddharth Mishra,Female,20,Information Technology,5,Computer Networks,8.5,93.9,70.1,32.9,81.1
+STU1018,Kavya Reddy,Female,18,Computer Science,5,Operating Systems,1.9,69.8,32.9,21.1,35.7
+STU1019,Vidya Das,Female,21,Data Science & AI,1,Machine Learning,5.4,89.9,71.8,31.1,62.2
+STU1020,Ananya Verma,Male,19,Computer Science,2,Operating Systems,5.8,89.6,62.7,30.7,66.2
+STU1021,Neha Joshi,Male,21,Electronics & Comm,5,Database Management Systems,2.7,83.0,44.9,26.3,47.6
+STU1022,Vikram Kulkarni,Female,18,Electronics & Comm,5,Cloud Computing,3.3,88.8,51.6,32.1,63.6
+STU1023,Sanjay Choudhury,Male,20,Information Technology,8,Database Management Systems,1.9,67.3,25.9,21.6,35.8
+STU1024,Tanvi Sharma,Male,20,Computer Science,6,Computer Networks,3.1,56.9,29.5,20.8,36.8
+STU1025,Chaitanya Kumar,Female,19,Computer Science,4,Computer Networks,4.3,57.8,36.6,21.9,56.7
+STU1026,Divya Iyer,Male,19,Electronics & Comm,7,Operating Systems,7.9,97.4,71.7,40.5,78.7
+STU1027,Rahul Singh,Male,20,Data Science & AI,2,Operating Systems,8.2,59.8,51.2,22.4,57.2
+STU1028,Rahul Verma,Female,19,Data Science & AI,4,Software Engineering,2.4,97.8,44.1,27.7,50.3
+STU1029,Rohan Verma,Female,20,Information Technology,3,Data Structures & Algorithms,7.4,91.8,55.9,29.4,51.3
+STU1030,Varun Pandey,Female,20,Information Technology,2,Software Engineering,1.6,78.9,37.8,23.1,46.9
+STU1031,Ishaan Das,Male,21,Data Science & AI,6,Database Management Systems,3.0,82.5,45.6,21.5,55.9
+STU1032,Tarun Choudhury,Female,20,Information Technology,4,Software Engineering,3.4,77.9,47.3,26.3,57.1
+STU1033,Arjun Singh,Female,18,Data Science & AI,5,Operating Systems,4.3,83.2,43.8,27.0,49.5
+STU1034,Siddharth Mishra,Female,19,Electronics & Comm,4,Cloud Computing,4.0,80.2,50.0,25.8,50.6
+STU1035,Tarun Iyer,Male,19,Computer Science,4,Software Engineering,4.5,72.3,37.5,16.8,45.2
+STU1036,Yash Bhat,Female,22,Computer Science,2,Machine Learning,3.6,64.4,37.5,20.7,43.9
+STU1037,Yash Malhotra,Female,21,Information Technology,5,Data Structures & Algorithms,5.9,62.8,49.7,19.5,52.5
+STU1038,Divya Malhotra,Female,20,Computer Science,4,Operating Systems,5.3,91.7,54.5,31.0,62.7
+STU1039,Rohan Das,Male,18,Electronics & Comm,6,Cloud Computing,3.4,85.2,34.3,23.8,45.2
+STU1040,Pranav Pandey,Female,21,Data Science & AI,2,Computer Networks,5.6,86.2,43.9,26.7,57.3
+STU1041,Rahul Mehta,Male,21,Electronics & Comm,2,Software Engineering,9.8,65.7,64.8,24.5,70.5
+STU1042,Ishaan Deshmukh,Female,21,Data Science & AI,5,Operating Systems,2.8,80.9,47.5,29.8,68.7
+STU1043,Siddharth Singh,Male,21,Computer Science,7,Computer Networks,8.2,75.5,63.7,29.6,62.9
+STU1044,Siddharth Verma,Male,20,Computer Science,4,Computer Networks,3.0,76.8,46.8,22.4,46.9
+STU1045,Akash Verma,Male,19,Electronics & Comm,6,Database Management Systems,7.3,84.0,58.7,31.1,63.4
+STU1046,Divya Pillai,Female,20,Computer Science,8,Database Management Systems,3.0,80.8,49.5,26.8,51.7
+STU1047,Pranav Joshi,Male,20,Data Science & AI,8,Cloud Computing,5.4,80.6,55.2,33.4,67.1
+STU1048,Sneha Mishra,Female,20,Electronics & Comm,6,Operating Systems,4.2,95.1,48.7,27.2,54.6
+STU1049,Esha Deshmukh,Male,20,Information Technology,6,Cloud Computing,1.7,47.0,29.3,11.8,18.0
+STU1050,Siddharth Mehta,Female,19,Information Technology,3,Operating Systems,9.1,63.2,61.8,27.4,70.0
+STU1051,Pooja Deshmukh,Female,20,Data Science & AI,7,Machine Learning,2.6,87.9,58.3,33.0,56.7
+STU1052,Pooja Patel,Female,20,Electronics & Comm,4,Data Structures & Algorithms,2.2,80.1,51.3,33.8,50.8
+STU1053,Rohan Deshmukh,Male,19,Computer Science,8,Data Structures & Algorithms,2.9,64.8,36.1,30.6,43.7
+STU1054,Nikhil Saxena,Male,20,Mechanical Engineering,1,Operating Systems,12.0,84.4,75.4,29.0,80.4
+STU1055,Pranav Rao,Male,21,Data Science & AI,4,Database Management Systems,2.2,89.8,56.6,29.5,48.4
+STU1056,Siddharth Pandey,Female,21,Mechanical Engineering,5,Software Engineering,4.2,62.8,45.3,18.6,39.4
+STU1057,Shreya Pillai,Female,20,Computer Science,4,Cloud Computing,2.3,79.8,39.2,23.0,36.2
+STU1058,Varun Choudhury,Female,20,Computer Science,2,Machine Learning,2.5,55.1,25.0,23.3,33.2
+STU1059,Sanjay Sharma,Female,18,Electronics & Comm,5,Data Structures & Algorithms,1.9,89.8,37.0,22.5,47.8
+STU1060,Rahul Bose,Male,20,Electronics & Comm,6,Operating Systems,4.4,65.5,36.1,20.4,35.5
+STU1061,Deepak Kumar,Male,20,Information Technology,5,Database Management Systems,3.6,89.3,48.0,25.9,59.1
+STU1062,Vidya Choudhury,Male,20,Data Science & AI,3,Database Management Systems,2.3,85.9,47.9,24.0,39.8
+STU1063,Aditi Deshmukh,Male,21,Electronics & Comm,6,Database Management Systems,5.7,70.4,55.7,31.6,59.7
+STU1064,Sanjay Iyer,Female,20,Computer Science,3,Cloud Computing,6.0,65.5,60.7,22.0,55.5
+STU1065,Vidya Saxena,Female,18,Data Science & AI,2,Software Engineering,4.6,72.3,53.6,25.8,57.0
+STU1066,Karan Menon,Female,19,Electronics & Comm,5,Computer Networks,6.5,89.0,49.6,28.2,66.2
+STU1067,Ananya Saxena,Male,20,Information Technology,7,Cloud Computing,3.3,67.0,47.4,23.5,44.7
+STU1068,Sanjay Patel,Male,20,Information Technology,4,Software Engineering,4.5,89.9,66.7,31.5,60.3
+STU1069,Sneha Kulkarni,Male,21,Electronics & Comm,5,Database Management Systems,3.3,80.5,58.0,33.4,60.0
+STU1070,Yash Singh,Female,20,Information Technology,3,Operating Systems,2.0,81.9,30.6,15.6,38.6
+STU1071,Esha Bhat,Male,20,Computer Science,4,Machine Learning,4.3,98.9,54.2,32.2,59.1
+STU1072,Kavya Verma,Female,20,Mechanical Engineering,2,Software Engineering,4.1,64.5,48.9,25.0,50.2
+STU1073,Varun Pillai,Female,20,Data Science & AI,8,Operating Systems,3.8,80.8,37.3,24.3,47.3
+STU1074,Deepak Reddy,Male,20,Electronics & Comm,6,Cloud Computing,4.6,85.9,37.8,22.0,46.1
+STU1075,Aditi Mishra,Female,20,Electronics & Comm,5,Cloud Computing,7.3,63.4,55.2,28.5,56.9
+STU1076,Pooja Kumar,Female,20,Computer Science,5,Database Management Systems,3.5,69.4,35.5,24.5,48.0
+STU1077,Esha Kumar,Female,19,Computer Science,6,Machine Learning,2.5,73.4,25.7,16.7,30.9
+STU1078,Jaya Kumar,Male,21,Information Technology,4,Data Structures & Algorithms,3.5,85.1,57.0,25.5,58.8
+STU1079,Siddharth Deshmukh,Male,19,Information Technology,3,Data Structures & Algorithms,3.6,52.4,35.8,13.9,31.2
+STU1080,Sanjay Menon,Male,19,Data Science & AI,2,Cloud Computing,6.0,86.7,53.0,29.1,47.1
+STU1081,Ananya Pillai,Female,18,Data Science & AI,5,Operating Systems,4.0,69.8,35.2,21.2,47.4
+STU1082,Divya Rao,Male,18,Information Technology,8,Machine Learning,2.3,82.8,43.1,24.2,29.5
+STU1083,Jaya Pandey,Male,20,Computer Science,2,Operating Systems,5.5,85.2,58.8,35.9,58.7
+STU1084,Pooja Bhat,Female,19,Information Technology,2,Machine Learning,5.2,68.1,49.3,22.9,64.6
+STU1085,Sanjay Rao,Female,18,Information Technology,4,Machine Learning,4.0,89.0,38.4,25.7,57.9
+STU1086,Rhea Bose,Female,20,Information Technology,6,Cloud Computing,5.9,61.3,50.5,22.8,56.4
+STU1087,Harsh Mishra,Female,20,Computer Science,3,Operating Systems,6.4,53.3,50.9,27.9,47.1
+STU1088,Tanvi Bose,Male,18,Data Science & AI,3,Cloud Computing,3.3,58.6,33.1,12.6,32.6
+STU1089,Tanvi Das,Male,20,Computer Science,5,Machine Learning,2.6,76.1,48.5,24.5,53.6
+STU1090,Manish Deshmukh,Male,21,Information Technology,5,Software Engineering,3.8,62.5,32.4,20.9,45.3
+STU1091,Sanjay Reddy,Female,23,Data Science & AI,1,Database Management Systems,4.9,68.0,55.9,25.2,58.7
+STU1092,Kavya Iyer,Female,20,Computer Science,1,Machine Learning,3.7,91.8,51.7,25.1,63.6
+STU1093,Tarun Choudhury,Female,19,Data Science & AI,5,Software Engineering,2.5,94.5,43.2,27.9,55.1
+STU1094,Karan Choudhury,Female,21,Information Technology,4,Machine Learning,4.2,87.2,48.1,22.4,43.5
+STU1095,Neha Pillai,Female,20,Computer Science,8,Software Engineering,1.5,75.0,43.6,26.0,47.1
+STU1096,Jaya Pillai,Male,19,Computer Science,5,Operating Systems,3.3,91.3,50.8,27.4,51.9
+STU1097,Shreya Bose,Female,21,Mechanical Engineering,1,Data Structures & Algorithms,5.7,83.6,60.0,27.9,51.8
+STU1098,Sanjay Das,Female,20,Information Technology,4,Computer Networks,5.8,62.2,55.2,27.8,60.0
+STU1099,Tarun Menon,Male,22,Mechanical Engineering,4,Machine Learning,1.0,84.1,33.2,20.0,45.5
+STU1100,Meera Choudhury,Female,21,Information Technology,2,Computer Networks,3.5,81.6,46.8,21.4,46.5
+STU1101,Deepak Saxena,Male,20,Information Technology,8,Machine Learning,5.1,83.4,50.7,24.5,56.1
+STU1102,Tanvi Singh,Female,21,Information Technology,6,Operating Systems,2.3,69.2,44.4,29.4,34.4
+STU1103,Rohan Das,Male,20,Information Technology,3,Operating Systems,3.3,71.2,37.8,18.9,48.1
+STU1104,Esha Choudhury,Male,20,Computer Science,3,Software Engineering,6.6,74.5,54.9,27.9,63.9
+STU1105,Akash Choudhury,Female,21,Information Technology,1,Machine Learning,3.1,78.1,61.2,31.5,56.1
+STU1106,Bhavna Das,Male,20,Information Technology,3,Operating Systems,7.9,99.0,79.5,34.4,68.0
+STU1107,Sakshi Kulkarni,Female,21,Computer Science,5,Operating Systems,2.8,59.3,25.9,14.0,22.7
+STU1108,Manish Menon,Female,21,Computer Science,4,Machine Learning,7.3,85.9,69.0,32.8,80.9
+STU1109,Sanjay Reddy,Female,22,Computer Science,8,Software Engineering,3.9,82.7,53.2,28.4,48.2
+STU1110,Ishaan Pandey,Female,21,Information Technology,1,Software Engineering,2.6,95.1,39.0,30.4,53.5
+STU1111,Meera Pandey,Female,20,Data Science & AI,5,Software Engineering,7.3,76.4,57.1,25.3,54.0
+STU1112,Meera Mehta,Female,19,Electronics & Comm,7,Software Engineering,2.2,87.7,35.7,23.1,30.8
+STU1113,Chaitanya Deshmukh,Female,21,Computer Science,4,Data Structures & Algorithms,2.7,85.0,25.0,29.6,50.9
+STU1114,Vidya Nair,Male,19,Computer Science,1,Machine Learning,4.8,74.1,46.5,19.2,50.9
+STU1115,Kavya Verma,Female,19,Information Technology,3,Cloud Computing,4.0,92.8,48.1,22.3,41.4
+STU1116,Sneha Nair,Female,19,Electronics & Comm,3,Data Structures & Algorithms,4.4,79.1,39.3,19.5,53.0
+STU1117,Karan Verma,Male,21,Computer Science,8,Operating Systems,3.3,59.1,35.9,22.6,38.1
+STU1118,Chaitanya Kumar,Female,21,Data Science & AI,7,Data Structures & Algorithms,2.2,40.0,25.0,11.9,19.1
+STU1119,Pranav Pillai,Female,20,Information Technology,8,Cloud Computing,2.9,96.5,49.8,28.0,46.7
+STU1120,Sanjay Malhotra,Male,20,Computer Science,7,Cloud Computing,7.0,77.4,57.3,25.0,64.3
+STU1121,Divya Sharma,Female,20,Information Technology,3,Cloud Computing,2.1,80.0,45.3,28.1,36.2
+STU1122,Tarun Patel,Female,20,Computer Science,7,Software Engineering,8.1,95.8,55.9,26.6,59.0
+STU1123,Roshni Kulkarni,Female,20,Electronics & Comm,8,Operating Systems,4.4,85.7,67.9,30.2,62.1
+STU1124,Sanjay Joshi,Female,20,Information Technology,3,Data Structures & Algorithms,2.9,87.5,59.9,27.5,54.8
+STU1125,Ishaan Choudhury,Male,20,Data Science & AI,3,Data Structures & Algorithms,1.6,77.3,30.7,13.2,27.2
+STU1126,Pooja Choudhury,Female,20,Data Science & AI,5,Machine Learning,1.7,79.3,49.8,24.9,52.7
+STU1127,Ananya Gupta,Female,20,Data Science & AI,2,Data Structures & Algorithms,3.3,67.7,46.3,23.2,38.3
+STU1128,Varun Nair,Female,20,Information Technology,1,Operating Systems,3.1,87.6,43.1,23.8,47.1
+STU1129,Tanvi Menon,Female,22,Computer Science,8,Software Engineering,4.1,40.0,26.5,12.8,29.1
+STU1130,Akash Patel,Female,18,Information Technology,8,Machine Learning,8.4,79.2,58.9,27.9,63.2
+STU1131,Roshni Patel,Male,19,Computer Science,2,Data Structures & Algorithms,4.9,60.1,65.0,26.4,51.3
+STU1132,Akash Singh,Male,20,Data Science & AI,4,Machine Learning,3.6,94.7,62.3,29.0,56.2
+STU1133,Shreya Patel,Male,18,Computer Science,7,Computer Networks,6.7,80.6,55.7,24.7,57.1
+STU1134,Neha Verma,Male,20,Data Science & AI,5,Machine Learning,4.1,97.7,53.5,30.6,58.1
+STU1135,Aarav Choudhury,Female,19,Computer Science,4,Cloud Computing,7.9,69.6,64.2,23.8,66.5
+STU1136,Varun Deshmukh,Male,20,Mechanical Engineering,6,Software Engineering,2.9,79.0,48.9,25.4,46.8
+STU1137,Chaitanya Bose,Female,19,Information Technology,7,Cloud Computing,2.3,60.3,25.1,21.7,40.9
+STU1138,Neha Mishra,Female,21,Information Technology,8,Computer Networks,1.6,54.9,30.3,17.1,32.4
+STU1139,Tanvi Rao,Male,20,Mechanical Engineering,4,Cloud Computing,3.7,83.7,42.9,19.9,48.6
+STU1140,Shreya Mehta,Female,19,Information Technology,2,Computer Networks,2.2,60.4,33.6,19.5,40.9
+STU1141,Siddharth Mishra,Female,21,Mechanical Engineering,7,Machine Learning,2.2,64.4,33.6,22.1,32.0
+STU1142,Meera Reddy,Male,18,Computer Science,1,Operating Systems,6.1,96.8,69.7,32.0,71.2
+STU1143,Deepak Bose,Female,21,Information Technology,6,Software Engineering,1.8,93.5,42.0,26.0,46.4
+STU1144,Gaurav Menon,Male,22,Data Science & AI,2,Operating Systems,4.0,62.0,40.7,18.4,35.6
+STU1145,Sameer Kulkarni,Female,19,Electronics & Comm,4,Software Engineering,3.7,85.0,32.9,21.7,51.0
+STU1146,Manish Pillai,Male,22,Computer Science,4,Software Engineering,4.0,90.1,53.6,27.2,52.5
+STU1147,Harsh Sharma,Female,21,Mechanical Engineering,2,Cloud Computing,7.2,95.6,59.0,32.8,71.2
+STU1148,Pranav Choudhury,Female,22,Data Science & AI,8,Cloud Computing,2.7,74.5,27.8,25.0,27.0
+STU1149,Varun Bhat,Male,20,Electronics & Comm,1,Operating Systems,7.2,66.5,62.6,27.5,64.3
+STU1150,Ishaan Patel,Female,19,Information Technology,7,Database Management Systems,1.7,74.1,35.7,17.3,52.1
+STU1151,Yash Kulkarni,Female,21,Computer Science,7,Computer Networks,5.2,66.5,29.5,26.6,49.3
+STU1152,Rohan Kumar,Female,19,Mechanical Engineering,3,Cloud Computing,7.5,95.7,60.1,33.5,68.8
+STU1153,Siddharth Bose,Female,19,Mechanical Engineering,6,Cloud Computing,1.0,92.1,40.6,28.6,44.3
+STU1154,Bhavna Singh,Male,19,Information Technology,3,Cloud Computing,3.8,78.7,46.0,25.1,53.0
+STU1155,Chaitanya Patel,Female,19,Computer Science,6,Machine Learning,3.7,86.1,44.3,26.8,50.1
+STU1156,Divya Joshi,Male,20,Computer Science,5,Operating Systems,4.0,40.0,25.0,12.2,34.2
+STU1157,Pooja Nair,Male,21,Data Science & AI,3,Operating Systems,8.3,89.8,62.6,34.1,82.3
+STU1158,Aarav Iyer,Male,22,Computer Science,4,Cloud Computing,2.7,87.4,53.7,27.3,56.4
+STU1159,Rhea Nair,Female,18,Information Technology,5,Machine Learning,2.3,88.0,55.0,30.6,52.0
+STU1160,Sakshi Iyer,Male,22,Information Technology,7,Cloud Computing,4.0,59.6,34.0,21.8,35.6
+STU1161,Pranav Choudhury,Male,22,Data Science & AI,2,Computer Networks,6.4,89.3,74.8,38.1,69.3
+STU1162,Vidya Menon,Female,18,Computer Science,5,Machine Learning,5.0,88.5,41.2,28.9,55.6
+STU1163,Varun Sharma,Female,20,Information Technology,3,Cloud Computing,3.9,96.0,46.5,25.4,45.8
+STU1164,Manish Kulkarni,Female,21,Data Science & AI,6,Software Engineering,3.5,88.7,55.7,34.2,65.3
+STU1165,Rahul Pillai,Male,20,Data Science & AI,1,Database Management Systems,1.6,71.6,40.5,24.6,45.0
+STU1166,Kavya Verma,Male,21,Information Technology,5,Software Engineering,5.0,82.4,51.6,28.2,50.2
+STU1167,Deepak Mishra,Male,21,Information Technology,2,Database Management Systems,5.3,77.0,41.7,25.2,41.9
+STU1168,Nikhil Patel,Female,20,Data Science & AI,5,Machine Learning,2.8,64.2,27.2,17.6,40.5
+STU1169,Rohan Bhat,Male,18,Electronics & Comm,7,Software Engineering,3.1,67.0,32.6,18.5,29.1
+STU1170,Siddharth Pillai,Male,20,Data Science & AI,6,Computer Networks,2.4,70.2,28.5,18.3,37.6
+STU1171,Nikhil Pillai,Female,18,Mechanical Engineering,6,Software Engineering,5.7,70.0,50.4,28.7,53.4
+STU1172,Deepak Kulkarni,Female,20,Data Science & AI,4,Operating Systems,3.3,80.7,43.9,25.3,53.5
+STU1173,Neha Das,Female,21,Electronics & Comm,7,Database Management Systems,3.6,67.6,31.2,20.5,46.4
+STU1174,Yash Nair,Female,20,Computer Science,5,Database Management Systems,5.1,83.8,49.8,27.3,51.2
+STU1175,Karan Mehta,Male,23,Information Technology,7,Cloud Computing,4.5,87.4,30.6,20.9,53.3
+STU1176,Sanjay Mehta,Female,20,Information Technology,5,Computer Networks,5.0,47.0,40.3,11.9,34.5
+STU1177,Sameer Menon,Male,21,Computer Science,4,Database Management Systems,4.2,58.3,44.8,23.7,45.6
+STU1178,Vikram Das,Female,20,Information Technology,3,Database Management Systems,4.2,65.1,34.5,22.0,44.3
+STU1179,Roshni Pillai,Male,23,Computer Science,5,Cloud Computing,4.2,77.8,40.6,23.7,62.2
+STU1180,Tarun Joshi,Female,21,Data Science & AI,2,Computer Networks,4.7,89.3,55.4,26.2,55.5
+STU1181,Tanvi Bhat,Female,19,Information Technology,7,Software Engineering,4.8,80.3,51.0,32.3,48.3
+STU1182,Jaya Nair,Male,22,Information Technology,5,Machine Learning,2.2,65.7,40.7,20.6,34.9
+STU1183,Vikram Gupta,Male,20,Mechanical Engineering,8,Software Engineering,2.9,61.7,29.3,18.9,41.6
+STU1184,Sneha Mishra,Male,18,Information Technology,1,Operating Systems,3.5,86.3,42.4,23.6,47.2
+STU1185,Sneha Pillai,Female,20,Information Technology,3,Operating Systems,4.7,67.9,43.0,18.6,44.9
+STU1186,Rahul Gupta,Female,21,Information Technology,7,Database Management Systems,7.9,67.4,48.1,25.6,55.8
+STU1187,Varun Malhotra,Female,20,Electronics & Comm,4,Operating Systems,2.7,95.6,46.4,23.8,32.6
+STU1188,Ananya Pandey,Female,20,Information Technology,4,Machine Learning,5.7,93.9,50.5,29.7,56.7
+STU1189,Siddharth Reddy,Male,21,Data Science & AI,7,Database Management Systems,3.0,78.6,46.0,26.0,47.9
+STU1190,Varun Pandey,Female,21,Computer Science,5,Cloud Computing,7.1,89.7,55.0,26.1,51.6
+STU1191,Esha Patel,Female,20,Information Technology,2,Operating Systems,9.1,60.4,60.3,21.8,52.1
+STU1192,Pooja Rao,Female,19,Computer Science,7,Cloud Computing,1.8,91.7,55.1,27.5,48.3
+STU1193,Sakshi Malhotra,Male,19,Data Science & AI,1,Data Structures & Algorithms,3.3,74.3,45.5,22.5,43.7
+STU1194,Jaya Pillai,Female,21,Electronics & Comm,7,Data Structures & Algorithms,1.3,79.4,38.0,18.8,40.4
+STU1195,Vidya Joshi,Female,21,Data Science & AI,1,Data Structures & Algorithms,1.8,62.0,25.0,13.7,28.6
+STU1196,Bhavna Rao,Female,19,Data Science & AI,5,Cloud Computing,1.9,88.1,53.5,29.0,52.8
+STU1197,Sakshi Verma,Male,20,Information Technology,1,Data Structures & Algorithms,5.1,75.0,58.1,33.6,55.8
+STU1198,Sameer Mehta,Female,18,Data Science & AI,6,Software Engineering,4.7,98.8,55.9,34.3,65.2
+STU1199,Siddharth Kumar,Male,21,Information Technology,1,Data Structures & Algorithms,5.5,98.4,56.9,31.9,73.1
+STU1200,Sameer Saxena,Male,18,Data Science & AI,7,Database Management Systems,5.1,93.5,50.0,32.2,63.2
+STU1201,Ananya Pandey,Male,18,Computer Science,4,Computer Networks,4.8,44.9,50.3,23.9,43.8
+STU1202,Sameer Bhat,Female,18,Computer Science,1,Software Engineering,4.1,91.1,58.1,29.6,52.2
+STU1203,Nikhil Menon,Male,20,Information Technology,6,Computer Networks,3.6,82.1,40.3,25.2,49.6
+STU1204,Aditi Singh,Male,20,Information Technology,4,Database Management Systems,6.1,55.6,53.9,26.1,51.4
+STU1205,Manish Sharma,Male,19,Computer Science,2,Database Management Systems,3.9,70.1,53.4,29.0,55.5
+STU1206,Jaya Saxena,Male,22,Data Science & AI,1,Machine Learning,4.9,90.3,54.3,32.7,50.4
+STU1207,Arjun Verma,Male,19,Computer Science,4,Software Engineering,1.4,94.8,40.4,23.6,43.9
+STU1208,Sahil Das,Female,20,Computer Science,1,Computer Networks,2.3,83.9,34.2,26.8,48.9
+STU1209,Arjun Pandey,Female,22,Data Science & AI,1,Data Structures & Algorithms,6.0,48.6,47.6,26.0,50.8
+STU1210,Ananya Gupta,Female,20,Information Technology,3,Database Management Systems,2.9,46.2,25.9,19.0,31.7
+STU1211,Sanjay Verma,Male,20,Data Science & AI,5,Data Structures & Algorithms,2.1,76.6,34.8,18.8,36.9
+STU1212,Neha Kumar,Female,18,Data Science & AI,5,Computer Networks,5.1,56.0,41.4,16.1,34.8
+STU1213,Harsh Mehta,Male,21,Mechanical Engineering,1,Cloud Computing,3.9,93.4,45.4,29.1,57.9
+STU1214,Roshni Das,Male,20,Data Science & AI,8,Software Engineering,3.2,78.5,55.6,32.1,57.1
+STU1215,Rhea Mishra,Female,21,Computer Science,7,Operating Systems,7.6,90.5,72.4,34.6,63.7
+STU1216,Rhea Singh,Female,19,Information Technology,3,Cloud Computing,7.0,87.3,61.8,30.0,69.8
+STU1217,Bhavna Bhat,Male,20,Computer Science,2,Cloud Computing,3.5,75.2,36.4,22.0,40.7
+STU1218,Tanvi Mehta,Male,21,Mechanical Engineering,8,Operating Systems,5.3,70.2,41.6,25.7,49.3
+STU1219,Priya Malhotra,Female,22,Computer Science,4,Database Management Systems,1.4,87.9,33.7,22.8,53.2
+STU1220,Harsh Pandey,Female,18,Information Technology,3,Machine Learning,6.3,93.6,51.2,30.6,73.2
+STU1221,Rohan Rao,Female,21,Computer Science,4,Data Structures & Algorithms,2.4,83.0,44.8,25.3,38.4
+STU1222,Divya Menon,Male,19,Electronics & Comm,6,Database Management Systems,2.0,83.7,35.8,20.9,34.1
+STU1223,Karan Sharma,Male,20,Information Technology,2,Machine Learning,1.7,79.4,32.5,19.1,32.1
+STU1224,Aditi Choudhury,Male,19,Mechanical Engineering,6,Data Structures & Algorithms,1.7,87.3,34.8,25.6,54.4
+STU1225,Sameer Bhat,Female,20,Computer Science,6,Computer Networks,6.3,55.7,53.9,15.1,41.9
+STU1226,Tanvi Kumar,Male,20,Computer Science,5,Cloud Computing,5.1,86.8,47.8,28.6,48.5
+STU1227,Tanvi Singh,Male,19,Computer Science,7,Cloud Computing,2.7,82.6,53.3,27.3,57.8
+STU1228,Karan Nair,Male,18,Electronics & Comm,2,Operating Systems,5.7,40.0,35.1,18.6,44.1
+STU1229,Sameer Das,Female,19,Electronics & Comm,5,Machine Learning,3.0,92.0,38.1,27.4,64.3
+STU1230,Esha Iyer,Female,22,Computer Science,4,Data Structures & Algorithms,4.5,88.6,56.1,29.7,61.7
+STU1231,Ishaan Menon,Male,23,Computer Science,4,Database Management Systems,3.1,86.1,53.2,25.2,50.4
+STU1232,Deepak Verma,Female,21,Data Science & AI,3,Data Structures & Algorithms,3.7,51.8,27.7,13.0,34.4
+STU1233,Roshni Deshmukh,Male,19,Computer Science,4,Database Management Systems,2.6,91.1,46.7,25.7,47.0
+STU1234,Aditi Nair,Female,20,Computer Science,2,Cloud Computing,2.7,98.6,52.1,32.9,65.1
+STU1235,Jaya Gupta,Female,21,Computer Science,3,Operating Systems,4.9,77.3,50.1,31.4,65.4
+STU1236,Chaitanya Deshmukh,Female,22,Computer Science,3,Operating Systems,5.3,42.7,33.3,16.8,29.0
+STU1237,Akash Mishra,Female,20,Computer Science,6,Data Structures & Algorithms,3.2,97.4,58.0,29.8,62.7
+STU1238,Vikram Bhat,Female,21,Computer Science,1,Data Structures & Algorithms,1.9,73.0,34.3,19.9,32.0
+STU1239,Ananya Nair,Male,22,Information Technology,5,Database Management Systems,11.7,73.3,68.3,28.6,88.7
+STU1240,Akash Singh,Female,21,Electronics & Comm,3,Database Management Systems,3.9,78.0,31.7,24.7,56.5
+STU1241,Sakshi Nair,Female,19,Information Technology,1,Machine Learning,4.4,62.7,27.5,16.5,32.4
+STU1242,Tanvi Reddy,Female,18,Data Science & AI,3,Cloud Computing,2.2,95.8,48.3,28.7,53.4
+STU1243,Ananya Mehta,Male,20,Computer Science,3,Machine Learning,6.7,62.5,49.5,27.3,61.7
+STU1244,Siddharth Choudhury,Female,20,Data Science & AI,5,Machine Learning,7.1,92.8,70.8,32.2,65.7
+STU1245,Karan Menon,Male,19,Information Technology,3,Data Structures & Algorithms,1.8,81.8,48.5,28.1,39.6
+STU1246,Varun Bose,Male,19,Data Science & AI,8,Software Engineering,3.7,91.1,48.4,30.7,56.8
+STU1247,Varun Deshmukh,Female,21,Computer Science,8,Software Engineering,3.6,74.5,50.9,26.0,48.8
+STU1248,Pooja Nair,Male,20,Electronics & Comm,4,Software Engineering,11.3,87.6,72.9,39.4,78.8
+STU1249,Nikhil Mehta,Male,19,Computer Science,6,Software Engineering,7.4,91.4,63.1,36.8,79.4
+STU1250,Sneha Nair,Female,20,Information Technology,1,Machine Learning,2.0,94.5,43.9,28.3,42.6
+STU1251,Roshni Choudhury,Male,20,Mechanical Engineering,5,Data Structures & Algorithms,2.8,69.0,50.7,22.3,43.4
+STU1252,Meera Verma,Male,21,Data Science & AI,6,Software Engineering,2.6,68.1,26.8,16.3,36.6
+STU1253,Tarun Saxena,Female,19,Information Technology,2,Operating Systems,4.6,87.2,52.6,29.0,59.0
+STU1254,Harsh Kulkarni,Male,21,Mechanical Engineering,1,Computer Networks,7.8,92.0,60.5,28.0,73.4
+STU1255,Sahil Pandey,Female,20,Information Technology,2,Operating Systems,4.1,95.6,51.2,30.3,56.8
+STU1256,Shreya Verma,Female,18,Computer Science,4,Data Structures & Algorithms,4.8,80.9,47.6,31.1,41.5
+STU1257,Priya Kulkarni,Male,21,Mechanical Engineering,4,Data Structures & Algorithms,2.9,86.3,46.0,26.8,47.8
+STU1258,Rhea Rao,Female,20,Computer Science,4,Computer Networks,4.8,95.5,67.0,33.4,68.9
+STU1259,Pooja Pillai,Female,19,Electronics & Comm,4,Database Management Systems,3.1,91.9,63.6,34.5,59.0
+STU1260,Roshni Kumar,Male,20,Computer Science,4,Database Management Systems,1.8,96.2,50.5,31.0,52.2
+STU1261,Esha Choudhury,Female,19,Data Science & AI,6,Database Management Systems,4.7,79.8,41.7,20.9,51.8
+STU1262,Rhea Patel,Male,19,Information Technology,2,Machine Learning,3.8,80.1,44.9,23.9,52.9
+STU1263,Tanvi Joshi,Male,21,Mechanical Engineering,6,Database Management Systems,2.4,67.4,38.0,27.0,33.4
+STU1264,Kavya Nair,Female,19,Data Science & AI,5,Cloud Computing,8.1,94.6,65.0,33.8,72.5
+STU1265,Nikhil Pillai,Female,22,Computer Science,6,Machine Learning,2.7,80.9,40.3,21.2,42.6
+STU1266,Esha Mishra,Male,20,Data Science & AI,6,Machine Learning,5.1,94.8,56.5,30.1,61.7
+STU1267,Ananya Pandey,Male,19,Computer Science,4,Database Management Systems,3.3,68.3,45.9,18.1,29.6
+STU1268,Roshni Kumar,Female,19,Electronics & Comm,2,Database Management Systems,7.7,65.9,59.5,20.8,63.9
+STU1269,Tarun Rao,Female,20,Electronics & Comm,5,Computer Networks,3.5,83.9,41.8,28.1,51.5
+STU1270,Divya Singh,Male,20,Information Technology,8,Software Engineering,1.8,96.5,50.1,29.4,54.4
+STU1271,Kavya Iyer,Female,18,Electronics & Comm,5,Computer Networks,5.6,80.6,67.0,32.4,73.4
+STU1272,Jaya Bose,Male,19,Computer Science,1,Machine Learning,7.7,83.6,50.2,30.7,67.6
+STU1273,Bhavna Mishra,Female,21,Information Technology,1,Computer Networks,3.2,84.9,42.5,26.5,40.7
+STU1274,Rahul Gupta,Male,18,Information Technology,8,Machine Learning,5.2,87.7,50.5,30.2,58.7
+STU1275,Tanvi Menon,Male,21,Data Science & AI,1,Data Structures & Algorithms,4.1,70.7,44.3,24.2,52.0
+STU1276,Ishaan Verma,Female,20,Computer Science,1,Machine Learning,3.2,83.7,30.9,26.2,48.1
+STU1277,Meera Singh,Female,20,Electronics & Comm,3,Machine Learning,5.6,81.1,64.3,35.6,75.0
+STU1278,Vikram Deshmukh,Female,19,Computer Science,8,Computer Networks,2.7,87.5,45.5,27.3,45.0
+STU1279,Akash Gupta,Female,18,Data Science & AI,3,Software Engineering,3.9,72.5,46.0,24.7,55.9
+STU1280,Ishaan Saxena,Female,21,Computer Science,4,Data Structures & Algorithms,4.3,46.2,36.1,18.1,43.1
+STU1281,Tarun Reddy,Female,19,Electronics & Comm,5,Operating Systems,4.3,88.0,47.2,26.9,54.8
+STU1282,Sanjay Reddy,Female,19,Computer Science,1,Operating Systems,2.7,65.7,42.0,20.8,42.7
+STU1283,Pranav Choudhury,Male,20,Information Technology,7,Software Engineering,9.7,85.5,70.6,35.8,71.1
+STU1284,Aarav Reddy,Male,19,Computer Science,4,Operating Systems,6.8,80.7,41.1,23.2,53.7
+STU1285,Ishaan Menon,Male,20,Data Science & AI,4,Data Structures & Algorithms,6.0,85.5,55.8,27.5,63.2
+STU1286,Deepak Menon,Male,21,Information Technology,7,Database Management Systems,7.4,52.2,46.4,23.4,51.4
+STU1287,Sanjay Nair,Female,20,Data Science & AI,8,Data Structures & Algorithms,4.0,82.9,53.7,30.9,56.6
+STU1288,Vikram Pillai,Male,22,Computer Science,4,Computer Networks,3.3,46.0,52.4,28.2,51.0
+STU1289,Jaya Singh,Female,21,Electronics & Comm,2,Cloud Computing,2.4,81.4,44.6,29.1,37.9
+STU1290,Kavya Pandey,Male,19,Computer Science,6,Machine Learning,2.8,73.6,56.9,29.6,53.2
+STU1291,Pooja Choudhury,Female,20,Computer Science,4,Machine Learning,2.4,81.2,36.0,26.1,56.6
+STU1292,Rhea Mishra,Male,20,Information Technology,8,Computer Networks,3.0,72.7,35.4,21.1,39.9
+STU1293,Tanvi Kulkarni,Female,20,Computer Science,8,Computer Networks,4.4,79.2,46.2,27.1,45.3
+STU1294,Priya Choudhury,Female,19,Computer Science,2,Cloud Computing,5.8,66.4,51.7,26.4,51.7
+STU1295,Manish Das,Male,22,Mechanical Engineering,8,Cloud Computing,5.7,87.0,51.1,26.4,48.7
+STU1296,Siddharth Joshi,Male,20,Mechanical Engineering,3,Machine Learning,2.3,86.4,30.3,22.5,44.7
+STU1297,Sameer Malhotra,Female,20,Data Science & AI,5,Cloud Computing,5.3,51.5,40.7,22.0,44.6
+STU1298,Sanjay Bose,Female,20,Computer Science,1,Cloud Computing,6.5,62.4,40.2,20.9,51.3
+STU1299,Jaya Das,Male,20,Computer Science,7,Cloud Computing,3.4,93.4,59.0,32.9,58.3
+STU1300,Pooja Kumar,Female,21,Data Science & AI,5,Software Engineering,6.6,69.2,57.6,29.2,60.6
+STU1301,Akash Saxena,Male,20,Computer Science,5,Database Management Systems,5.7,96.2,53.8,32.8,67.2
+STU1302,Karan Menon,Female,18,Mechanical Engineering,7,Cloud Computing,2.2,62.0,36.7,25.2,33.9
+STU1303,Esha Sharma,Male,19,Computer Science,4,Database Management Systems,10.3,87.7,69.3,30.9,77.4
+STU1304,Manish Pandey,Male,21,Mechanical Engineering,4,Database Management Systems,2.8,90.7,46.4,32.4,63.5
+STU1305,Vidya Saxena,Female,20,Information Technology,7,Computer Networks,5.9,72.7,50.9,26.9,50.0
+STU1306,Roshni Choudhury,Male,22,Electronics & Comm,6,Cloud Computing,5.8,88.6,54.5,31.6,64.4
+STU1307,Esha Reddy,Female,18,Computer Science,8,Machine Learning,2.2,62.0,39.7,22.9,47.7
+STU1308,Pranav Nair,Female,19,Electronics & Comm,8,Software Engineering,4.2,87.2,41.7,27.6,46.6
+STU1309,Rhea Saxena,Female,19,Computer Science,4,Machine Learning,5.8,75.6,56.3,25.4,60.6
+STU1310,Kavya Joshi,Male,20,Data Science & AI,4,Cloud Computing,2.2,93.7,48.2,30.8,51.7
+STU1311,Tarun Kulkarni,Female,20,Electronics & Comm,3,Machine Learning,4.0,76.4,34.3,17.6,48.8
+STU1312,Pranav Iyer,Male,19,Computer Science,5,Cloud Computing,6.0,90.5,52.3,35.2,60.6
+STU1313,Shreya Menon,Male,20,Information Technology,3,Software Engineering,6.2,67.4,41.5,23.3,51.5
+STU1314,Shreya Mishra,Male,20,Information Technology,6,Data Structures & Algorithms,3.2,91.0,45.5,30.8,45.5
+STU1315,Gaurav Menon,Female,19,Information Technology,2,Software Engineering,7.7,73.4,58.6,29.5,66.0
+STU1316,Priya Patel,Female,20,Information Technology,2,Data Structures & Algorithms,6.9,55.0,40.4,19.8,50.9
+STU1317,Divya Menon,Male,21,Information Technology,2,Operating Systems,4.3,73.7,53.4,24.6,54.0
+STU1318,Tanvi Joshi,Male,19,Information Technology,1,Data Structures & Algorithms,2.9,89.0,54.9,27.1,55.2
+STU1319,Harsh Pandey,Male,19,Data Science & AI,5,Database Management Systems,2.3,75.1,48.5,27.6,46.8
+STU1320,Ananya Rao,Male,19,Data Science & AI,2,Database Management Systems,4.6,93.4,32.9,26.8,45.0
+STU1321,Akash Gupta,Male,21,Computer Science,2,Software Engineering,7.5,77.2,74.6,33.8,75.0
+STU1322,Ananya Sharma,Female,21,Electronics & Comm,1,Database Management Systems,3.6,89.3,50.5,27.9,53.7
+STU1323,Roshni Mehta,Female,20,Electronics & Comm,6,Database Management Systems,2.6,72.0,38.9,23.6,45.6
+STU1324,Karan Gupta,Male,19,Information Technology,6,Operating Systems,5.6,70.7,48.5,23.2,50.5
+STU1325,Esha Sharma,Female,21,Information Technology,2,Database Management Systems,4.2,94.4,42.9,25.2,65.2
+STU1326,Jaya Rao,Female,23,Information Technology,6,Computer Networks,4.9,71.3,49.8,24.1,47.4
+STU1327,Sameer Das,Female,20,Data Science & AI,4,Computer Networks,3.0,84.0,57.7,28.4,49.2
+STU1328,Ananya Deshmukh,Female,23,Data Science & AI,3,Computer Networks,3.3,64.9,39.6,25.7,35.8
+STU1329,Yash Joshi,Male,20,Computer Science,5,Data Structures & Algorithms,3.0,95.1,40.4,22.6,49.1
+STU1330,Shreya Sharma,Male,21,Data Science & AI,2,Software Engineering,4.8,90.4,42.0,26.2,65.9
+STU1331,Aarav Pandey,Female,20,Computer Science,6,Software Engineering,3.3,60.5,34.2,21.0,40.9
+STU1332,Tarun Kumar,Male,20,Computer Science,1,Machine Learning,5.0,72.3,41.7,29.0,54.9
+STU1333,Aarav Sharma,Female,19,Data Science & AI,8,Operating Systems,2.9,66.7,43.2,20.7,47.4
+STU1334,Sneha Menon,Male,21,Data Science & AI,1,Computer Networks,4.8,84.0,62.6,27.0,58.1
+STU1335,Meera Pandey,Male,22,Information Technology,5,Computer Networks,5.3,87.6,58.7,32.2,69.3
+STU1336,Neha Sharma,Male,20,Information Technology,7,Database Management Systems,4.5,86.0,50.6,28.2,63.9
+STU1337,Siddharth Pillai,Male,19,Mechanical Engineering,1,Computer Networks,5.8,87.9,55.8,28.7,57.0
+STU1338,Sahil Patel,Female,19,Data Science & AI,4,Database Management Systems,3.1,77.7,43.3,25.7,39.2
+STU1339,Chaitanya Malhotra,Male,19,Data Science & AI,3,Database Management Systems,5.3,82.9,43.8,28.0,60.1
+STU1340,Sneha Mehta,Female,19,Computer Science,5,Machine Learning,4.3,56.8,43.7,23.1,46.8
+STU1341,Kavya Reddy,Female,20,Computer Science,3,Data Structures & Algorithms,2.7,95.9,39.8,27.6,44.9
+STU1342,Yash Rao,Male,22,Information Technology,1,Database Management Systems,1.6,82.9,48.1,30.5,45.1
+STU1343,Manish Das,Female,18,Information Technology,5,Database Management Systems,1.8,84.1,37.5,24.7,40.1
+STU1344,Meera Singh,Female,18,Electronics & Comm,4,Software Engineering,1.4,62.7,37.0,20.4,36.8
+STU1345,Bhavna Das,Female,20,Information Technology,5,Machine Learning,4.7,87.7,40.9,27.7,60.8
+STU1346,Rohan Mishra,Female,19,Information Technology,2,Database Management Systems,3.3,92.9,56.1,26.5,60.1
+STU1347,Varun Nair,Male,21,Computer Science,3,Operating Systems,4.0,91.2,62.4,33.4,65.7
+STU1348,Karan Choudhury,Male,19,Computer Science,5,Data Structures & Algorithms,3.6,60.8,27.6,16.6,35.2
+STU1349,Bhavna Kulkarni,Female,19,Mechanical Engineering,5,Operating Systems,5.0,94.2,55.5,26.4,71.5
+STU1350,Akash Gupta,Female,19,Data Science & AI,4,Computer Networks,5.1,64.8,47.7,24.5,50.2
+STU1351,Rohan Singh,Female,19,Computer Science,3,Data Structures & Algorithms,3.9,63.6,43.1,20.5,41.0
+STU1352,Rhea Pandey,Female,20,Data Science & AI,3,Computer Networks,4.0,67.7,39.4,16.9,33.1
+STU1353,Sanjay Verma,Female,19,Data Science & AI,2,Software Engineering,4.1,69.5,39.0,19.3,41.4
+STU1354,Aarav Pillai,Female,20,Data Science & AI,3,Cloud Computing,7.2,90.8,65.3,37.3,74.7
+STU1355,Gaurav Gupta,Male,20,Computer Science,2,Cloud Computing,1.6,59.6,32.7,16.9,23.1
+STU1356,Shreya Kumar,Male,18,Information Technology,5,Cloud Computing,2.9,55.9,28.2,17.8,29.4
+STU1357,Pranav Saxena,Female,18,Computer Science,5,Database Management Systems,5.7,76.7,45.5,21.5,48.7
+STU1358,Chaitanya Rao,Female,20,Electronics & Comm,4,Machine Learning,6.4,90.0,69.7,39.5,67.5
+STU1359,Akash Nair,Male,20,Data Science & AI,3,Operating Systems,4.7,68.2,45.8,23.6,43.6
+STU1360,Jaya Pillai,Female,22,Information Technology,3,Computer Networks,3.6,68.0,25.0,16.1,44.4
